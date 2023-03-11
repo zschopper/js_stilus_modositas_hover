@@ -6,7 +6,7 @@ function init() {
         img.addEventListener("mouseenter", mouseenter);
         img.addEventListener("mouseleave", mouseleave);
         img.style.border = "0px none";
-        img.style.padding = "10px";
+        img.style.padding = "15px";
     }
 }
 
