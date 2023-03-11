@@ -9,6 +9,15 @@ article {
     flex-flow: row wrap;
 }
 
+footer {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer a {
+    text-decoration: none;
+}
+
 img {
     height: 300px;
 }
